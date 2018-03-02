@@ -38,3 +38,13 @@
 #     print(i)
 #
 # print(sys.path)
+
+
+# print('{}网站,{}!'.format('菜鸟教程', 'www.baidu.com'))
+# import math
+#
+# print(math.pi)
+# f = open('text.txt', "r")
+# str = f.read()
+# print(str)
+# f.close()
